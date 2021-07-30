@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on R.C Dey & Son
 
-- 🌱 I’m currently learning **C++, Java, Python**
+- 🌱 I’m currently learning Rust, React JS and C#
 
 - 👨‍💻 All of my projects are available at [https://github.com/Visibyte?tab=repositories](https://github.com/Visibyte?tab=repositories)
 
