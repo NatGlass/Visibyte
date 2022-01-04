@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan, founder of Visibyte</h1>
 <h3 align="center">Passionate website developer & entrepreneur</h3>
 
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning Node.js
 
 - 👨‍💻 All of my projects are available at [https://github.com/Visibyte?tab=repositories](https://github.com/Visibyte?tab=repositories)
-
-- 💬 Ask me about **HTML5, CSS3, JS, PHP, React, Next.js**
 
 - 📫 How to reach me **nathanglass26@gmail.com**
 
